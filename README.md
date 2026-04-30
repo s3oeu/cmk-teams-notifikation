@@ -276,4 +276,4 @@ Yes. Create multiple notification rules with different Parameter 1 (webhook URL
 ### 📜 License & Contributors
 
 - **Developed by:** Nils (Protones GmbH & Co. KG / [s3o.eu](https://s3o.eu))  
-- **License:** MIT – free to use and modify.
+- **License:** MIT – free to use and modify. 
